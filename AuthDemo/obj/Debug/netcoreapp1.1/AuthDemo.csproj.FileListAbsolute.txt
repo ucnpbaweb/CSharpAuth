@@ -1,0 +1,10 @@
+C:\VSProjects\AuthDemo\AuthDemo\bin\Debug\netcoreapp1.1\AuthDemo.deps.json
+C:\VSProjects\AuthDemo\AuthDemo\bin\Debug\netcoreapp1.1\AuthDemo.runtimeconfig.json
+C:\VSProjects\AuthDemo\AuthDemo\bin\Debug\netcoreapp1.1\AuthDemo.runtimeconfig.dev.json
+C:\VSProjects\AuthDemo\AuthDemo\bin\Debug\netcoreapp1.1\AuthDemo.dll
+C:\VSProjects\AuthDemo\AuthDemo\obj\Debug\netcoreapp1.1\AuthDemo.csprojResolveAssemblyReference.cache
+C:\VSProjects\AuthDemo\AuthDemo\obj\Debug\netcoreapp1.1\AuthDemo.AssemblyInfo.cs
+C:\VSProjects\AuthDemo\AuthDemo\bin\Debug\netcoreapp1.1\AuthDemo.pdb
+C:\VSProjects\AuthDemo\AuthDemo\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\VSProjects\AuthDemo\AuthDemo\obj\Debug\netcoreapp1.1\AuthDemo.dll
+C:\VSProjects\AuthDemo\AuthDemo\obj\Debug\netcoreapp1.1\AuthDemo.pdb
